@@ -1,0 +1,2 @@
+https://www.eecs.harvard.edu/~kgajos/papers/2016/huang16chordripple.pdf
+https://github.com/czhuang/ChordRipple
